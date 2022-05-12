@@ -1,0 +1,9 @@
+{
+    "name": "User's Stock",
+    "products": [{
+        "number": 1,
+        "price": 200,
+        "name": "Phone",
+        "client": "Jack"
+    }]
+}
