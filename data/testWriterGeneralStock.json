@@ -1,0 +1,17 @@
+{
+    "name": "My Stock",
+    "products": [
+        {
+            "number": 2,
+            "price": 200,
+            "name": "Camera",
+            "client": "Jack"
+        },
+        {
+            "number": 1,
+            "price": 1500,
+            "name": "Laptop",
+            "client": "Bob"
+        }
+    ]
+}
