@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e22de61a-511d-450a-9a17-43a1dde76c16" name="Changes" comment="updated README.md" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24l54vp8UD3AKxC2NgARKIYgQpO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../components-ListDemoProject" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ui" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StockGUI">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Main" />
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.StockGUI" />
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Project-Starter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.StockTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockTest.testRemoveProductFromStockToZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.StockTest" />
+      <option name="METHOD_NAME" value="testRemoveProductFromStockToZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StockGUI" />
+        <item itemvalue="JUnit.All in Project-Starter" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.StockTest" />
+        <item itemvalue="JUnit.StockTest.testRemoveProductFromStockToZero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e22de61a-511d-450a-9a17-43a1dde76c16" name="Changes" comment="" />
+      <created>1644192144976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644192144976</updated>
+    </task>
+    <task id="LOCAL-00001" summary="finished README">
+      <created>1644194029194</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644194029194</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Client and Stock classes, and corresponding tests">
+      <created>1644204716513</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644204716513</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first draft implementation and completed tests">
+      <created>1644459378010</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644459378017</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added stockApp class in ui package">
+      <created>1644563986105</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644563986105</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixed addProduct issue">
+      <created>1644573215347</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644573215347</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Finished StockApp">
+      <created>1644579278828</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644579278828</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixed StockApp issues">
+      <created>1644583156607</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1644583156607</updated>
+    </task>
+    <task id="LOCAL-00008" summary="updated methods in Stock and StockApp classes.">
+      <created>1644585897612</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1644585897612</updated>
+    </task>
+    <task id="LOCAL-00009" summary="updated test files.">
+      <created>1644586833632</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644586833632</updated>
+    </task>
+    <task id="LOCAL-00010" summary="enhanced user interaction for StockApp">
+      <created>1644594930136</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1644594930136</updated>
+    </task>
+    <task id="LOCAL-00011" summary="enhanced user interaction for StockApp">
+      <created>1644595048486</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1644595048486</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added persistence class">
+      <created>1645586504038</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1645586504038</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added persistence tests and updated StockApp">
+      <created>1645589700208</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1645589700208</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Updated StockApp to finish Phase 2">
+      <created>1645590069628</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1645590069628</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Updated Stock class to finish Phase 2">
+      <created>1645590189811</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1645590189811</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Updated StockApp to finish Phase 2">
+      <created>1645590384387</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1645590384387</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Updated StockApp to finish Phase 2">
+      <created>1645590534688</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1645590534688</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added StockGUI class for GUI, phase 3">
+      <created>1647655765796</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1647655765796</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Added GUI, added image to panel">
+      <created>1648063613915</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1648063613915</updated>
+    </task>
+    <task id="LOCAL-00020" summary="added method specifications">
+      <created>1648065048231</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1648065048231</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Phase 4: Task 2">
+      <created>1648631499937</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1648631499937</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Phase 4: Task 3">
+      <created>1648798578512</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1648798578512</updated>
+    </task>
+    <task id="LOCAL-00023" summary="updated README.md">
+      <created>1648845436626</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1648845436626</updated>
+    </task>
+    <task id="LOCAL-00024" summary="updated README.md">
+      <created>1652385672376</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1652385672376</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished README" />
+    <MESSAGE value="Added Client and Stock classes, and corresponding tests" />
+    <MESSAGE value="first draft implementation and completed tests" />
+    <MESSAGE value="added stockApp class in ui package" />
+    <MESSAGE value="Fixed addProduct issue" />
+    <MESSAGE value="Finished StockApp" />
+    <MESSAGE value="Fixed StockApp issues" />
+    <MESSAGE value="updated methods in Stock and StockApp classes." />
+    <MESSAGE value="updated test files." />
+    <MESSAGE value="enhanced user interaction for StockApp" />
+    <MESSAGE value="added persistence class" />
+    <MESSAGE value="added persistence tests and updated StockApp" />
+    <MESSAGE value="Updated Stock class to finish Phase 2" />
+    <MESSAGE value="Updated StockApp to finish Phase 2" />
+    <MESSAGE value="Added StockGUI class for GUI, phase 3" />
+    <MESSAGE value="Added GUI, added image to panel" />
+    <MESSAGE value="added method specifications" />
+    <MESSAGE value="Phase 4: Task 2" />
+    <MESSAGE value="Phase 4: Task 3" />
+    <MESSAGE value="updated README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated README.md" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="model.Client" memberName="products" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="((java.util.ArrayList)((Client)((ArrayList)((Stock)this).clients).get(0)).products).get(1)" custom="model.Client,model.Stock,java.util.ArrayList" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project_Starter$ClientTest.ic" NAME="ClientTest Coverage Results" MODIFIED="1644202363748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$StockTest.ic" NAME="StockTest Coverage Results" MODIFIED="1644532535907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$ProductTest.ic" NAME="ProductTest Coverage Results" MODIFIED="1644202399847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$StockTest_testRemoveProductFromStockToZero.ic" NAME="StockTest.testRemoveProductFromStockToZero Coverage Results" MODIFIED="1644458270125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$model_in_Project_Starter.ic" NAME="model in Project-Starter Coverage Results" MODIFIED="1645586448929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$All_in_Project_Starter.ic" NAME="All in Project-Starter Coverage Results" MODIFIED="1648627302020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
